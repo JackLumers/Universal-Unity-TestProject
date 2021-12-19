@@ -61,9 +61,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 276017205}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e78540ec7a02b647b3130c046694071, type: 3}
+  m_Script: {fileID: 11500000, guid: 32b3609f51b4a4541ad0a82381f037e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  defaultEnableAnimationTime: 0.25
 --- !u!222 &276017210
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -246,9 +247,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1411594766}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b2ed1bf4eff8564bb57e086dd897dc6, type: 3}
+  m_Script: {fileID: 11500000, guid: 207f18af57644e240bf7e28152a539ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  defaultEnableAnimationTime: 0.25
   onClickAudioFeedback: {fileID: 0}
 --- !u!1 &1623584877
 GameObject:

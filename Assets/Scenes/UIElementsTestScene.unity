@@ -233,7 +233,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e78540ec7a02b647b3130c046694071, type: 3}
+  m_Script: {fileID: 11500000, guid: 32b3609f51b4a4541ad0a82381f037e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &293682482
@@ -1086,10 +1086,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1464979723}
     m_Modifications:
-    - target: {fileID: 3261202426887137983, guid: 0beaccc79f10b0f4ca10b8d2ccfc4722, type: 3}
-      propertyPath: m_Text
-      value: BaseUiElements
-      objectReference: {fileID: 0}
     - target: {fileID: 3261202426962128878, guid: 0beaccc79f10b0f4ca10b8d2ccfc4722, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1193,7 +1189,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b2ed1bf4eff8564bb57e086dd897dc6, type: 3}
+  m_Script: {fileID: 11500000, guid: 207f18af57644e240bf7e28152a539ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1445866240
