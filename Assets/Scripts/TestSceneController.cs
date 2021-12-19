@@ -1,6 +1,6 @@
 ﻿using Cysharp.Threading.Tasks;
 using UnityEngine;
-using UniversalUnity.Helpers.UI.BaseUiElements;
+using UniversalUnity.Helpers.UI.BaseUiElements.BaseElements;
 
 public class TestSceneController : MonoBehaviour
 {
